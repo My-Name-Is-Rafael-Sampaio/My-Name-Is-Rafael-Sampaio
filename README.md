@@ -25,4 +25,7 @@
   <a href="https://www.linkedin.com/in/rafael-sampaio-de-jesus-9852b620a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;
   <img height="28" width="103" src="https://komarev.com/ghpvc/?username=My-Name-Is-Rafael-Sampaio&color=green" alt="My-Name-Is-Rafael-Sampaio"/>
+  
+  
+  ![Snake animation](https://github.com/My-Name-Is-Rafael-Sampaio/My-Name-Is-Rafael-Sampaio/blob/output/github-contribution-grid-snake.svg)
 </div>
