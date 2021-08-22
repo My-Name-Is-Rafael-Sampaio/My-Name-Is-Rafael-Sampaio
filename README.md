@@ -1,4 +1,4 @@
-### Olá!! My Name Is Rafael Sampaio de Jesus 👋
+### Olá!! My Name Is Rafael Sampaio de Jesus 👋🏽😎
 
 - 🔭 Estudo para me capacitar como full stack
 - 🌱 Estudando Javascript
@@ -6,21 +6,17 @@
 - 📫 How to reach me: rafaelsampaiodejesus.30@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou mais lindo do que imaginava
+- 🤹‍♂️ Tenho Habilidade em: <img align="center" alt="Rafalindo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="Rafalindo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="Rafalindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> <img align="center" alt="Rafalindo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Rafalindo-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
+##
+
+### Minhas Estatísticas:
 <div>
   <a href="https://github.com/My-Name-Is-Rafael-Sampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=My-Name-Is-Rafael-Sampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Name-Is-Rafael-Sampaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafalindo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Rafalindo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafalindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Rafalindo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Rafalindo-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-</div>
- 
 ##
 
 <div>
