@@ -27,5 +27,6 @@
   <img height="28" width="103" src="https://komarev.com/ghpvc/?username=My-Name-Is-Rafael-Sampaio&color=green" alt="My-Name-Is-Rafael-Sampaio"/>
   
   
-  ![Snake animation](https://github.com/My-Name-Is-Rafael-Sampaio/My-Name-Is-Rafael-Sampaio/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/My-Name-Is-Rafael-Sampaio/My-Name-Is-Rafael-Sampaio/blob/output/github-contribution-grid-snake.svg")
 </div>
