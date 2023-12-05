@@ -1,12 +1,12 @@
 ### Olá!! My Name Is Rafael Sampaio de Jesus 👋🏽😎
 
 - 🔭 Estudo para me capacitar como developer
-- 🌱 Estudando TypeScript , NodeJs, React Native e Expo
+- 🌱 Estudando NodeJs, TypeScript , React Native e Expo
 - 💬 Ask me about: Qualquer coisa
 - 📫 How to reach me: rafaelsampaiodejesus.30@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou mais lindo do que imaginava
-- 🤹‍♂️ Tenho Habilidade em: <img align="center" alt="Rafalindo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="Rafalindo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="Rafalindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> <img align="center" alt="Rafalindo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Rafalindo-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <img align="center" alt="Rafalindo-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+- 🤹‍♂️ Tenho Habilidade em: <img align="center" alt="Rafalindo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img align="center" alt="Rafalindo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="center" alt="Rafalindo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> <img align="center" alt="Rafalindo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Rafalindo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 
 ##
 
