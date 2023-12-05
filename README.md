@@ -1,7 +1,7 @@
 ### Olá!! My Name Is Rafael Sampaio de Jesus 👋🏽😎
 
-- 🔭 Estudo para me capacitar como full stack
-- 🌱 Estudando Java e Javascript
+- 🔭 Estudo para me capacitar como developer
+- 🌱 Estudando TypeScript , NodeJs, React Native e Expo
 - 💬 Ask me about: Qualquer coisa
 - 📫 How to reach me: rafaelsampaiodejesus.30@gmail.com
 - 😄 Pronouns: ele/dele
